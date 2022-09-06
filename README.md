@@ -1,5 +1,5 @@
 # Arduino-fyr
-Instruktion för att bygga en enkel LED fyr för utbildning med hjälp av Arduino. Delarna går att handla hos tex[Kjell & Company](https://www.kjell.com) eller [Sizable](https://sizable.se/). 
+Instruktion för att bygga en enkel LED fyr för utbildning med hjälp av Arduino. Passande delar går att handla hos tex [Sizable](https://sizable.se/) eller [Kjell & Company](https://www.kjell.com) (Dyrare). 
 
 
 Materiallista
@@ -9,6 +9,9 @@ Materiallista
 - [Färgade LEDs](https://sizable.se/P.QECJ8/5-mm-LED-Kit-med-5-farger)
 - [220 Ohm motstånd](https://sizable.se/P.3MSQ6/30-Varden-Motstand-600-st)
 - Batterihållare för 2 AA batterier eller powerbank. Viktigt att inte powerbanken stänger av sig efter en stund pga för låg förbrukning.
+
+
+Principskiss
 
 ![schema](img/Fyr_Main.svg)
 
