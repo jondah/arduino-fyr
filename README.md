@@ -41,3 +41,12 @@ För att ladda in koden behövs drivrutiner för valt kort samt [Arduno IDE](htt
 [Installera extra kort som esp8266 i arduino.](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
 
 ![arduino_ide_load](img/arduino_ide_load.png)
+
+
+För den som har tillgång till en 3D-skrivare kan en enklare låda skrivas ut. Ladda ner box.stl.
+
+Lådan framifrån
+![box_front](img/box_front.jpg)
+
+Lådan bakifrån
+![box_back](img/box_back.jpg)
