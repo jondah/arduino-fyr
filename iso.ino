@@ -1,6 +1,6 @@
 /*
  * Jonas Dahlgren
- * Lighthous LED ISO 4s
+ * Lighthous LED ISO 8s
  */
 
 // the setup function runs once when you press reset or power the board
